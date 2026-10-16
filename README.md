@@ -5,4 +5,4 @@ Estou desenvolvendo habilidades em SQL, Excel, Power BI e modelagem de dados.
 
 Contatos: 
 Email: Jenniferbarreirar@gmail.com
-Linkedin: .linkedin.com/in/jennifer-barreira-4568842b1
+Linkedin: linkedin.com/in/jennifer-barreira-4568842b1
